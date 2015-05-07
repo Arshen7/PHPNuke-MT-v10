@@ -10,6 +10,7 @@ core {
 <li>تمامی خروجی ها ارسال درخواست به هسته با متد</li>
 <li>خروجی به صورت json,array,html</li>
 <li>قابلیت debug</li>
+<li>قابلیت سوییچ بین cookie and session</li>
 </ul>
 }
 
