@@ -16,6 +16,7 @@ admin_page{
 <ul>
 <li>قابلیت پین کردن صفحات مدیریت به صفحه اصلی مدیریت</li>
 <li>قابلیت سوییچ برای ایجاکس مدیریت</li>
+<li>Microsoft UI : https://dev.windows.com/en-US/design/</li>
 </ul>
 }
 
