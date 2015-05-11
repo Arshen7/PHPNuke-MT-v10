@@ -11,6 +11,7 @@ core {
 <li>خروجی به صورت json,array,html</li>
 <li>قابلیت debug</li>
 <li>قابلیت سوییچ بین cookie and session</li>
+<li>قابلیت چند سایتی (یعنی قابلیت سایت زیرمجموعه داشته باشد)</li>
 </ul>
 }
 
